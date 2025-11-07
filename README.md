@@ -22,7 +22,7 @@
 ## 快速开始
 
 1.  **提报Bug**：欢迎在 [Issues](https://github.com/wyyfly/BabyOS/issues) 中提交你遇到的育儿难题。
-2.  **贡献代码**：欢迎提交Pull Request(https://github.com/wyyfly/BabyOS/pulls)，分享你的解决方案。可以是真正的代码脚本，也可以是一份详细的“算法”文档。
+2.  **贡献代码**：欢迎提交Pull Request(https://github.com/wyyfly/BabyOS/pulls), 分享你的解决方案。可以是真正的代码脚本，也可以是一份详细的“算法”文档。
 3.  **加入讨论**：在 Issues 和 Discussions 中分享你的想法！
 
 ## 核心模块架构
